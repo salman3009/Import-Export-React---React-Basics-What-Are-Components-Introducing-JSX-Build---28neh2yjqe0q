@@ -1,7 +1,8 @@
 import React from 'react'
 
-function SubmitButton() {
+export default function SubmitButton() {
     return (
-        <button>Ask</button>     
+        <button >Ask</button>
+            
     )
 }
